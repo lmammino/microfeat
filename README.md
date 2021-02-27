@@ -24,6 +24,7 @@ If we were to continue developing this, we'll need to:
  - add support for tags (tag flags and, as a client, be able to listen to changes only for a given set of tags)
  - make the api restful
  - auth
+ - flags persistance (DBs all the things!!!!)
 
 ## Contributing
 
