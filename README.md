@@ -25,6 +25,8 @@ If we were to continue developing this, we'll need to:
  - make the api restful
  - auth
  - flags persistance (DBs all the things!!!!)
+ - percentage based flag (e.g. for soft rollouts)
+ - decent client libraries with local evaluation of flags
 
 ## Contributing
 
