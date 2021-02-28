@@ -26,7 +26,9 @@ If we were to continue developing this, we'll need to:
  - auth
  - flags persistance (DBs all the things!!!!)
  - percentage based flag (e.g. for soft rollouts)
- - decent client libraries with local evaluation of flags
+ - decent client libraries with local evaluation of flags (at least Node.js / JS / Python)
+ - A lovely web ui to create and configure flags
+ - A lovely logo... (because why not?!)
 
 ## Contributing
 
