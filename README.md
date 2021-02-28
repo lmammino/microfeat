@@ -1,5 +1,8 @@
 # microfeat
+
 A super simple and wildly incomplete do-it-yourself feature flag server
+
+<img src="./assets/microfeat-logo.svg" align="center"/>
 
 
 ## How it (kinda) works
